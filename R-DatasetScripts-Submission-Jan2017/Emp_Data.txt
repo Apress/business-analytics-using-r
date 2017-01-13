@@ -1,0 +1,11 @@
+EmpName,EmpAge,EmpSal
+John,18,18000
+Craig,28,28000
+Bill,32,32000
+Nick,42,42000
+Umesh,50,50000
+Rama,55,55000
+Ken,57,57000
+Zen,58,58000
+Roberts,59,59000
+Andy,59,59000

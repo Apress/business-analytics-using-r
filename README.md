@@ -2,7 +2,7 @@
 
 This repository accompanies [*Business Analytics Using R - A Practical Approach*](http://www.apress.com/9781484225134) by Umesh Hodeghatta Rao and Umesh Nayak (Apress, 2016).
 
-![Cover image](9781484225134.jpg)
+[comment]: #cover
 
 Download the files as a zip using the green button, or clone the repository to your machine using Git.
 
